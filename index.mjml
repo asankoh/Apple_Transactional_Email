@@ -1,0 +1,154 @@
+<mjml>
+
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, sans-serif"></mj-all>
+      <mj-text color="#111111" font-weight="300" font-size="14px"></mj-text>
+      <mj-section background-color="#fff"></mj-section>
+    </mj-attributes>
+  </mj-head>
+
+
+  <mj-body width="600px">
+    <mj-section>
+      <mj-group>
+        <mj-column>
+          <mj-image width="50px" align="left" src="https://s.mzstatic.com/email/images_shared/logo_apple_d-2x.png"></mj-image>
+        </mj-column>
+
+        <mj-column>
+          <mj-text align="right" padding-top="30px" font-size="28px" font-family="Helvetica" color="#A2AAAD" font-weight="500">Receipt</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" font-weight="700">Save 3% on all your Apple purchases with Apple Card. <a href="#" style="color: #15c; font-weight: 100; ">Apply and use in minutes</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#FAFAFA">
+      <mj-column width="50%">
+        <mj-text color="#A2AAAD" font-weight="500" align="left" font-size="11px">APPLE ACCOUNT <br>
+          <a href="#" style="color: #15c; font-weight: 100; font-size: 12px; ">emailuser78@icloud.com</a>
+        </mj-text>
+
+        <mj-text color="#A2AAAD" font-weight="500" align="left" font-size="11px">DATE<br>
+          <span style="color: #333333; font-weight: 500; font-size: 12px;">Oct 4, 2024</span>
+        </mj-text>
+
+        <mj-text color="#A2AAAD" font-weight="500" align="left" font-size="11px">ORDER ID <br>
+          <a href="#" style="color: #15c; font-weight: 100; font-size: 12px; ">123OEDRD12</a>
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="50%">
+        <mj-text color="#A2AAAD" font-weight="500" align="left" font-size="11px">BILLED TO <br>
+          <span style="color: #333333; font-weight: 500; font-size: 12px;">VISA...1111 (Apple Pay) <br> Email User <br> 11111 Ocean Way <br> Albany, NY, 23232 <br> USA </span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0">
+      <mj-column>
+        <mj-table line-height="15px">
+          <tr>
+            <td style="width: 60px; padding-right: 10px;">
+              <img width="60px" style="border-radius: 10px;" src="https://ci3.googleusercontent.com/meips/ADKq_NYyqVy1YC2Tpe6LQBRqf7xbq36efBlgOj6ONZIuvw3MkmJIW7AWH2QxGEBPPU_nuZHrNjiNJc0SfvR_iOfFMLthkEAcM2wlg4DUmyDGQpVIUcSK8WtFXaYvP2Law0cG7S80_DaMy4Y_ypOouq349-DpRrs6KlLxbseAA4GFKGB7RD7KZvznwn6yasfg2EsI7ll9qsuh=s0-d-e1-ft#https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/df/3a/16/df3a16b4-8113-d5f1-3d1b-3e558cdf910a/pr_source.jpg/128x128bb.jpg" />
+            </td>
+            <td style="vertical-align: top;">
+              <div style="font-weight: bold;">Peacock TV: Stream TV & Movies</div>
+              <div style="font-size: 12px; color: #666;">Peacock Premium (Monthly)</div>
+              <div style="font-size: 12px; color: #666;">Renews Oct 28, 2024</div>
+              <a style="color: #0070c9" href="#">Report a Problem</a>
+            </td>
+            <td style="text-align: right; vertical-align: top;">
+              <div style="font-weight: bold;">$7.99</div>
+              <div style="font-size: 12px; color: #666; margin-top: 10px;">Subtotal: $7.99</div>
+              <div style="font-size: 12px; color: #666;">Tax: $0.56</div>
+              <div style="font-weight: bold; margin-top: 5px;">Total: $8.55</div>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+
+
+    <mj-section padding-top="50px">
+      <mj-column>
+        <mj-image width="70px" align="center" src="https://ci3.googleusercontent.com/meips/ADKq_NactAejuuhZWj252qwhxe2VpRSq_IP1LSVDiSz_EYn9Ri5qQuVv3PzwAQUzNR5rzgLehzzgTO4VHhWStsBRTlVzbCIYnixwPushQJ6-S12Ul_ao41HhjLYefoP5Cg=s0-d-e1-ft#https://s.mzstatic.com/email/images_shared/apple_card_logo_large_2x.png"></mj-image>
+        <mj-text align="center" color="#333333" font-size="21px" font-weight="600">Save 3% on all your Apple purchases.</mj-text>
+        <mj-table align="center">
+          <tr>
+            <td style="text-align: center;">
+              <table cellpadding="0" cellspacing="0" style="display: inline-block;">
+                <tr>
+                  <td style="vertical-align: middle;">
+                    <img width="30px" src="https://ci3.googleusercontent.com/meips/ADKq_NaTDkdY0rAbDJeBkW5PRIZp3X_s2vEbUaDB2H7sgE4v_Wy_JNVGyX17cx_0ASi4mXtsomn99-6WAwW5lguoB_VAh0Xpizv4MCIEV18XZYxW1GbcoIKo2KB6=s0-d-e1-ft#https://s.mzstatic.com/email/images_shared/wallet_icon_large_2x.png" alt="Wallet icon" />
+                  </td>
+                  <td style="vertical-align: middle; padding-left: 10px;">
+                    <a href="#" style="color: #0070c9">Apply and use in minutes</a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text color="#666" font-size="12px">
+          1. 3% savings is earned as Daily Cash and is transferred to your Apple Cash card when transactions post to your Apple Card account. If you do not have an Apple Cash card, Daily Cash can be applied by you as a credit on your statement balance. 3% is the total amount of Daily Cash earned for these purchases. See the Apple Card Customer Agreement for more details on Daily Cash and qualifying transactions
+          <br></br>
+          2. Subject to credit approval.
+          <br></br>
+          To access and use all the features of Apple Card, you must add Apple Card to Wallet on an iPhone or iPad with iOS or iPadOS 13.2 or later. Update to the latest version of iOS or iPadOS by going to Settings > General > Software Update. Tap Download and Install.
+          <br></br>
+          Available for qualifying applicants in the United States.
+          <br></br>
+          Apple Card is issued by Goldman Sachs Bank USA, Salt Lake City Branch.
+          <br></br>
+          If you reside in the US territories, please call Goldman Sachs at 877-255-5923 with questions about Apple Card.
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" color="#B3B3B3" font-size="12px">Privacy: We use a Subscriber ID to provide reports to developers
+          <br></br> Get help with subscriptions and purchases. <a href="#" style="color: #0070c9">Visit Apple Support.</a>
+          <br></br> Learn how to <a href="#" style="color: #0070c9">manage your password preferences</a> for iTunes, Apple Books, and App Store purchases.
+          <br></br> You have the option to stop receiving email receipts for your subscription renewals. If you have opted out, you can still view your receipts in your account under Purchase History. To manage receipts or to opt in again, go to <a href="#" style="color: #0070c9">Account Settings.</a>
+          <br></br> Apple ID is now Apple Account. You can still sign in with the same email address or phone number and password.
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image width="25px" align="center" src="https://s.mzstatic.com/email/images_shared/logo_apple_d-2x.png"></mj-image>
+        <mj-text align="center" font-size="12px">
+          <a href="#" style="color: #0070c9">Apple Account</a> &bull;
+          <a href="#" style="color: #0070c9">Terms of Sale</a> &bull;
+          <a href="#" style="color: #0070c9">Privacy Policy</a>
+        </mj-text>
+        <mj-text align="center" font-size="12px" color="#B3B3B3" line-height="15px">
+          Copyright © 2024 Apple Inc. <br>
+          <a href="#" style="color: #0070c9">All rights reserved</a>
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+
+  </mj-body>
+</mjml>
