@@ -15,7 +15,7 @@
     <mj-section>
       <mj-group>
         <mj-column>
-          <mj-image width="50px" align="left" src="https://s.mzstatic.com/email/images_shared/logo_apple_d-2x.png"></mj-image>
+          <mj-image width="50px" align="left" src="https://s.mzstatic.com/email/images_shared/logo_apple_d-2x.png" alt="Apple Logo"></mj-image>
         </mj-column>
 
         <mj-column>
@@ -60,7 +60,7 @@
         <mj-table line-height="15px">
           <tr>
             <td style="width: 60px; padding-right: 10px;">
-              <img width="60px" style="border-radius: 10px;" src="https://ci3.googleusercontent.com/meips/ADKq_NYyqVy1YC2Tpe6LQBRqf7xbq36efBlgOj6ONZIuvw3MkmJIW7AWH2QxGEBPPU_nuZHrNjiNJc0SfvR_iOfFMLthkEAcM2wlg4DUmyDGQpVIUcSK8WtFXaYvP2Law0cG7S80_DaMy4Y_ypOouq349-DpRrs6KlLxbseAA4GFKGB7RD7KZvznwn6yasfg2EsI7ll9qsuh=s0-d-e1-ft#https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/df/3a/16/df3a16b4-8113-d5f1-3d1b-3e558cdf910a/pr_source.jpg/128x128bb.jpg" />
+              <img width="60px" style="border-radius: 10px;" src="https://ci3.googleusercontent.com/meips/ADKq_NYyqVy1YC2Tpe6LQBRqf7xbq36efBlgOj6ONZIuvw3MkmJIW7AWH2QxGEBPPU_nuZHrNjiNJc0SfvR_iOfFMLthkEAcM2wlg4DUmyDGQpVIUcSK8WtFXaYvP2Law0cG7S80_DaMy4Y_ypOouq349-DpRrs6KlLxbseAA4GFKGB7RD7KZvznwn6yasfg2EsI7ll9qsuh=s0-d-e1-ft#https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/df/3a/16/df3a16b4-8113-d5f1-3d1b-3e558cdf910a/pr_source.jpg/128x128bb.jpg" alt="Peacock Streaming Service Logo"/>
             </td>
             <td style="vertical-align: top;">
               <div style="font-weight: bold;">Peacock TV: Stream TV & Movies</div>
@@ -83,7 +83,7 @@
 
     <mj-section padding-top="50px">
       <mj-column>
-        <mj-image width="70px" align="center" src="https://ci3.googleusercontent.com/meips/ADKq_NactAejuuhZWj252qwhxe2VpRSq_IP1LSVDiSz_EYn9Ri5qQuVv3PzwAQUzNR5rzgLehzzgTO4VHhWStsBRTlVzbCIYnixwPushQJ6-S12Ul_ao41HhjLYefoP5Cg=s0-d-e1-ft#https://s.mzstatic.com/email/images_shared/apple_card_logo_large_2x.png"></mj-image>
+        <mj-image width="70px" align="center" src="https://ci3.googleusercontent.com/meips/ADKq_NactAejuuhZWj252qwhxe2VpRSq_IP1LSVDiSz_EYn9Ri5qQuVv3PzwAQUzNR5rzgLehzzgTO4VHhWStsBRTlVzbCIYnixwPushQJ6-S12Ul_ao41HhjLYefoP5Cg=s0-d-e1-ft#https://s.mzstatic.com/email/images_shared/apple_card_logo_large_2x.png" alt="Apple Card Logo"></mj-image>
         <mj-text align="center" color="#333333" font-size="21px" font-weight="600">Save 3% on all your Apple purchases.</mj-text>
         <mj-table align="center">
           <tr>
@@ -138,7 +138,7 @@
 
     <mj-section>
       <mj-column>
-        <mj-image width="25px" align="center" src="https://s.mzstatic.com/email/images_shared/logo_apple_d-2x.png"></mj-image>
+        <mj-image width="25px" align="center" src="https://s.mzstatic.com/email/images_shared/logo_apple_d-2x.png" alt="Apple Logo"></mj-image>
         <mj-text align="center" font-size="12px">
           <a href="#" style="color: #0070c9">Apple Account</a> &bull;
           <a href="#" style="color: #0070c9">Terms of Sale</a> &bull;
